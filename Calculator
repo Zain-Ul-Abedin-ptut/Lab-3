@@ -1,1 +1,3 @@
 cout << "Zain-Ul-Abedin, 24-ST-038";
+
+cout << "Division of a and b is " << (a / b);
