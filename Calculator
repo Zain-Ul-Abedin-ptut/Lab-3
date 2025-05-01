@@ -1,1 +1,15 @@
 cout << "Zain-Ul-Abedin, 24-ST-038";
+
+subtraction
+multiplication
+division
+cout << "Division of a and b is " << (a / b);
+
+cout << "Multiplication of a and b is " << (a * b);
+multiplication
+
+cout << "Subtraction of a and b is " << (a - b);
+subtraction
+
+cout << "Addition of a and b is " << (a + b);
+addition
